@@ -6,7 +6,4 @@ To use this client interface, you'll need to have a LiveKit server set up and ru
 
 Once you have your LiveKit server set up, you can install the client interface by cloning this repository and installing its dependencies:
 
-git clone https://github.com/ZainAli82/LivekitClientInterface.git
-cd LivekitClientInterface
-npm install
-npm start
+Use "npm start" to run the client.
