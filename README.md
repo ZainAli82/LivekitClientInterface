@@ -7,3 +7,5 @@ To use this client interface, you'll need to have a LiveKit server set up and ru
 Once you have your LiveKit server set up, you can install the client interface by cloning this repository and installing its dependencies:
 
 Use "npm start" to run the client.
+
+In order to run a test user client to join as another user, you can join using this netlify link: https://csb-3p0wri.netlify.app/
